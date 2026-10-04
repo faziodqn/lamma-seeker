@@ -1,0 +1,29 @@
+{
+ "degree": "M.Sc.",
+ "language_of_instruction": "English",
+ "prerequisites": [],
+ "min_grade_german": 2.5,
+ "ielts_min": null,
+ "german_required": null,
+ "work_experience_required_years": null,
+ "gre_required": false,
+ "uni_assist": null,
+ "tuition_per_semester_eur": 0,
+ "semester_contribution_eur": null,
+ "is_public": true,
+ "accredited": null,
+ "deadline": "2027-06-15",
+ "intake": [
+  "WS2027/28"
+ ],
+ "ai_heavy": false,
+ "software_focus": null,
+ "python_ai_dominated": false,
+ "url": "https://www.uni-koblenz.de/en/degree-programs/web-and-data-science-msc",
+ "programme_name": "Web and Data Science",
+ "university": "University of Koblenz",
+ "city": "Koblenz",
+ "german_state": "Rhineland-Palatinate",
+ "field": "Web and Data Science",
+ "summary": "Needs overall grade 2.5 or better; non-EU deadline 15 June. From a search summary, not the page itself."
+}

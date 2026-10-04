@@ -1,0 +1,51 @@
+{
+ "degree": "M.Sc.",
+ "language_of_instruction": "English",
+ "prerequisites": [
+  {
+   "area": "theoretical_cs",
+   "cp": 12,
+   "quote": "12 CP Theoretical Computer Science"
+  },
+  {
+   "area": "computer_architecture",
+   "cp": 12,
+   "quote": "12 CP Computer Engineering or IT"
+  },
+  {
+   "area": "software_engineering",
+   "cp": 12,
+   "quote": "12 CP Methodological and Practical CS"
+  },
+  {
+   "area": "mathematics",
+   "cp": 18,
+   "quote": "18 CP Mathematics"
+  }
+ ],
+ "min_grade_german": null,
+ "ielts_min": null,
+ "german_required": null,
+ "work_experience_required_years": null,
+ "gre_required": false,
+ "uni_assist": true,
+ "tuition_per_semester_eur": 0,
+ "semester_contribution_eur": null,
+ "is_public": true,
+ "accredited": null,
+ "deadline": null,
+ "intake": [
+  "SS2027",
+  "WS2027/28"
+ ],
+ "ai_heavy": false,
+ "software_focus": null,
+ "python_ai_dominated": false,
+ "url": "https://www.tu.berlin/en/eecs/academics-teaching/study-offer/masters-programs/msc-computer-science-informatik/msc-cs-in-application-admission",
+ "programme_name": "Computer Science (Informatik)",
+ "university": "TU Berlin",
+ "city": "Berlin",
+ "german_state": "Berlin",
+ "field": "Computer Science",
+ "summary": "Open admission, English B2, no tuition. Page: fewer than 5% of applicants met the entry requirements recently; foreign degrees need a uni-assist VPD. Deadlines not confirmed on the page."
+}

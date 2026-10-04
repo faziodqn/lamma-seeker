@@ -1,0 +1,36 @@
+{
+ "degree": "M.Sc.",
+ "language_of_instruction": "English",
+ "prerequisites": [
+  {
+   "area": "mathematics",
+   "cp": 35,
+   "quote": "at least 35 ECTS in mathematics (including theoretical computer science)"
+  }
+ ],
+ "min_grade_german": 2.7,
+ "ielts_min": null,
+ "german_required": "A1",
+ "work_experience_required_years": null,
+ "gre_required": false,
+ "uni_assist": true,
+ "tuition_per_semester_eur": 0,
+ "semester_contribution_eur": null,
+ "is_public": true,
+ "accredited": null,
+ "deadline": "2026-12-15",
+ "intake": [
+  "SS2027",
+  "WS2027/28"
+ ],
+ "ai_heavy": true,
+ "software_focus": null,
+ "python_ai_dominated": false,
+ "url": "https://www.uni-passau.de/en/msc-ai-eng",
+ "programme_name": "Artificial Intelligence Engineering",
+ "university": "University of Passau",
+ "city": "Passau",
+ "german_state": "Bavaria",
+ "field": "AI Engineering",
+ "summary": "Needs 2.7 or better (you are exactly at 2.7) and 40 ECTS CS (not scored). Summer window 1 Nov–15 Dec; winter 15 Apr–31 May."
+}

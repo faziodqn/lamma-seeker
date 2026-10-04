@@ -1,0 +1,30 @@
+{
+ "degree": "M.Sc.",
+ "language_of_instruction": "English",
+ "prerequisites": [],
+ "min_grade_german": null,
+ "ielts_min": 6.0,
+ "german_required": null,
+ "work_experience_required_years": null,
+ "gre_required": false,
+ "uni_assist": null,
+ "tuition_per_semester_eur": 0,
+ "semester_contribution_eur": null,
+ "is_public": true,
+ "accredited": null,
+ "deadline": "2026-12-15",
+ "intake": [
+  "SS2027",
+  "WS2027/28"
+ ],
+ "ai_heavy": false,
+ "software_focus": 9,
+ "python_ai_dominated": false,
+ "url": "https://www.uni-hildesheim.de/en/software-systems-engineering-sse/teaching/software-engineering-master/",
+ "programme_name": "International Master in Software Engineering",
+ "university": "University of Hildesheim",
+ "city": "Hildesheim",
+ "german_state": "Lower Saxony",
+ "field": "Software Engineering",
+ "summary": "Software engineering focus, IELTS 6.0, no tuition, bachelor mark weighted ~53% in admission. Non-EU deadlines 30 Jun (WS), 15 Dec (SS). Small city."
+}

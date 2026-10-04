@@ -1,0 +1,29 @@
+{
+ "degree": "M.Sc.",
+ "language_of_instruction": "English",
+ "prerequisites": [],
+ "min_grade_german": null,
+ "ielts_min": 5.5,
+ "german_required": "A1",
+ "work_experience_required_years": null,
+ "gre_required": false,
+ "uni_assist": true,
+ "tuition_per_semester_eur": 0,
+ "semester_contribution_eur": null,
+ "is_public": true,
+ "accredited": null,
+ "deadline": "2027-07-15",
+ "intake": [
+  "WS2027/28"
+ ],
+ "ai_heavy": false,
+ "software_focus": 8,
+ "python_ai_dominated": false,
+ "url": "https://www.tu-chemnitz.de/studierendenservice/zsb/studiengaenge/flyer/web_engineering_master_en.pdf",
+ "programme_name": "Web Engineering",
+ "university": "TU Chemnitz",
+ "city": "Chemnitz",
+ "german_state": "Saxony",
+ "field": "Web Engineering",
+ "summary": "IELTS 5.5 and German A1 at application, apply via uni-assist. From a general guide, not the programme page; verify."
+}

@@ -1,0 +1,30 @@
+{
+ "degree": "M.Sc.",
+ "language_of_instruction": "English",
+ "prerequisites": [],
+ "min_grade_german": null,
+ "ielts_min": null,
+ "german_required": null,
+ "work_experience_required_years": null,
+ "gre_required": false,
+ "uni_assist": null,
+ "tuition_per_semester_eur": 0,
+ "semester_contribution_eur": null,
+ "is_public": true,
+ "accredited": null,
+ "deadline": "2026-10-31",
+ "intake": [
+  "SS2027",
+  "WS2027/28"
+ ],
+ "ai_heavy": false,
+ "software_focus": null,
+ "python_ai_dominated": false,
+ "url": "https://applymsc.cs.rptu.de/",
+ "programme_name": "Computer Science",
+ "university": "RPTU Kaiserslautern",
+ "city": "Kaiserslautern",
+ "german_state": "Rhineland-Palatinate",
+ "field": "Computer Science",
+ "summary": "GRE recommended not mandatory; German proof within first year; €60 assessment fee. Credit requirements, IELTS level and tuition not stated on the page. Deadlines 31 Oct (SS), 30 Apr (WS)."
+}

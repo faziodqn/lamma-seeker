@@ -1,0 +1,30 @@
+{
+ "degree": "M.Sc.",
+ "language_of_instruction": "English",
+ "prerequisites": [],
+ "min_grade_german": null,
+ "ielts_min": null,
+ "german_required": null,
+ "work_experience_required_years": null,
+ "gre_required": true,
+ "uni_assist": true,
+ "tuition_per_semester_eur": null,
+ "semester_contribution_eur": null,
+ "is_public": true,
+ "accredited": null,
+ "deadline": "2026-11-30",
+ "intake": [
+  "SS2027",
+  "WS2027/28"
+ ],
+ "ai_heavy": false,
+ "software_focus": null,
+ "python_ai_dominated": false,
+ "url": "https://www.cit.tum.de/en/cit/studies/degree-programs/master-data-engineering-and-analytics/",
+ "programme_name": "Data Engineering and Analytics",
+ "university": "TU Munich",
+ "city": "München",
+ "german_state": "Bavaria",
+ "field": "Data Engineering",
+ "summary": "Iranian applicants need GRE/GATE (quant 164+, writing 4.0+). Non-EU tuition applies (amount not on the page). uni-assist VPD required."
+}

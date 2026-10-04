@@ -1,0 +1,30 @@
+{
+ "degree": "M.Sc.",
+ "language_of_instruction": "English",
+ "prerequisites": [],
+ "min_grade_german": 2.5,
+ "ielts_min": 6.5,
+ "german_required": "A1",
+ "work_experience_required_years": null,
+ "gre_required": true,
+ "uni_assist": null,
+ "tuition_per_semester_eur": 0,
+ "semester_contribution_eur": null,
+ "is_public": true,
+ "accredited": null,
+ "deadline": "2027-01-15",
+ "intake": [
+  "SS2027",
+  "WS2027/28"
+ ],
+ "ai_heavy": false,
+ "software_focus": null,
+ "python_ai_dominated": false,
+ "url": "https://www.uni-bayreuth.de/en/master/computer-science",
+ "programme_name": "Computer Science",
+ "university": "University of Bayreuth",
+ "city": "Bayreuth",
+ "german_state": "Bavaria",
+ "field": "Computer Science",
+ "summary": "Needs grade 2.5 or better, GRE/GATE for degrees from outside Europe, German A1. Research-oriented with AI/Data Science certificates."
+}

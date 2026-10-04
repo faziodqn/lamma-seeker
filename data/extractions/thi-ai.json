@@ -1,0 +1,30 @@
+{
+ "degree": "M.Sc.",
+ "language_of_instruction": "English",
+ "prerequisites": [],
+ "min_grade_german": null,
+ "ielts_min": null,
+ "german_required": null,
+ "work_experience_required_years": null,
+ "gre_required": false,
+ "uni_assist": true,
+ "tuition_per_semester_eur": 1200,
+ "semester_contribution_eur": null,
+ "is_public": true,
+ "accredited": null,
+ "deadline": "2027-01-15",
+ "intake": [
+  "SS2027",
+  "WS2027/28"
+ ],
+ "ai_heavy": true,
+ "software_focus": null,
+ "python_ai_dominated": false,
+ "url": "https://www.thi.de/en/computer-science/degree-programmes/artificial-intelligence-msc/",
+ "programme_name": "Artificial Intelligence",
+ "university": "Technische Hochschule Ingolstadt",
+ "city": "Ingolstadt",
+ "german_state": "Bavaria",
+ "field": "Artificial Intelligence",
+ "summary": "Deep-learning-focused AI master, €1,200/semester. Needs a 210-ECTS bachelor; check if a 4-year Iranian degree is accepted."
+}

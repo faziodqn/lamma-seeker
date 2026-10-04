@@ -1,0 +1,56 @@
+{
+ "degree": "M.Sc.",
+ "language_of_instruction": "English",
+ "prerequisites": [
+  {
+   "area": "networks_systems",
+   "cp": 20,
+   "quote": "OS/networks/databases/security: 20 CP"
+  },
+  {
+   "area": "theoretical_cs",
+   "cp": 10,
+   "quote": "theoretical CS/algorithms/data structures: 10 CP"
+  },
+  {
+   "area": "mathematics",
+   "cp": 20,
+   "quote": "math fundamentals: 20 CP"
+  },
+  {
+   "area": "computer_architecture",
+   "cp": 5,
+   "quote": "computer architecture/HPC: 5 CP"
+  },
+  {
+   "area": "programming",
+   "cp": 25,
+   "quote": "programming/SE/UX/graphics: 25 CP"
+  }
+ ],
+ "min_grade_german": null,
+ "ielts_min": 7.0,
+ "german_required": null,
+ "work_experience_required_years": null,
+ "gre_required": false,
+ "uni_assist": true,
+ "tuition_per_semester_eur": 0,
+ "semester_contribution_eur": null,
+ "is_public": true,
+ "accredited": null,
+ "deadline": "2026-11-30",
+ "intake": [
+  "SS2027",
+  "WS2027/28"
+ ],
+ "ai_heavy": false,
+ "software_focus": null,
+ "python_ai_dominated": false,
+ "url": "https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/m-sc-computer-science/admission?set_language=en",
+ "programme_name": "Computer Science",
+ "university": "TU Dresden",
+ "city": "Dresden",
+ "german_state": "Saxony",
+ "field": "Computer Science",
+ "summary": "Needs IELTS 7.0 (all sections 6.0) or C1. 90 CP across areas; some area groups were merged to fit our areas, so fit is approximate. GRE strongly recommended. Deadlines 1 Apr–31 May (WS), 1 Oct–30 Nov (SS)."
+}

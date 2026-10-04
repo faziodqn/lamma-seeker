@@ -1,0 +1,7 @@
+[Unit]
+Description=Lamma course seeker run
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/Documents/lamma-course-seeker
+ExecStart=/usr/bin/env npm run seek --silent

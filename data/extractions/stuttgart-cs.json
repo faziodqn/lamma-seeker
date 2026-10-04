@@ -1,0 +1,29 @@
+{
+ "degree": "M.Sc.",
+ "language_of_instruction": "English",
+ "prerequisites": [],
+ "min_grade_german": null,
+ "ielts_min": 7.0,
+ "german_required": null,
+ "work_experience_required_years": null,
+ "gre_required": false,
+ "uni_assist": null,
+ "tuition_per_semester_eur": 1500,
+ "semester_contribution_eur": null,
+ "is_public": true,
+ "accredited": null,
+ "deadline": null,
+ "intake": [
+  "WS2027/28"
+ ],
+ "ai_heavy": false,
+ "software_focus": null,
+ "python_ai_dominated": false,
+ "url": "https://www.uni-stuttgart.de/en/study/study-programs/Computer-Science-M.Sc.-00001/",
+ "programme_name": "Computer Science",
+ "university": "University of Stuttgart",
+ "city": "Stuttgart",
+ "german_state": "Baden-Württemberg",
+ "field": "Computer Science",
+ "summary": "C1 English required (IELTS 7 per a general guide). Page does not state tuition; €1,500/semester for non-EU is from my own knowledge. Windows 15 Nov–15 Jan and 15 May–15 Jul; check which maps to your intake."
+}

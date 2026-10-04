@@ -1,0 +1,26 @@
+{
+  "name": "lamma-course-seeker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev:server": "node --env-file-if-exists=.env server/index.js",
+    "dev:web": "vite web",
+    "build": "vite build web",
+    "start": "node --env-file-if-exists=.env server/index.js",
+    "seek": "node --env-file-if-exists=.env server/seek.js",
+    "demo": "node scripts/demo-seed.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "cheerio": "^1.2.0",
+    "exceljs": "^4.4.0",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "vite": "^8.3.2"
+  }
+}
